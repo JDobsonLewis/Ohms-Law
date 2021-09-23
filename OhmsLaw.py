@@ -1,16 +1,19 @@
 #--------------------------------------------------------------------------------------------------------------------------------
 #--Ohm's Law Calculator
 #--By: Jonathan Dobson-lewis
+
 #--Comments: Currently this works when feeding it a single variable x. I'm currently working to make it accept two x values.
 
 #--------------------------------------------------------------------------------------------------------------------------------
+
 print("OHM'S LAW CALCULATOR")
+print("By: Jonathan Dobson-lewis")
 print(" ")
 print("Enter the known variables V, I, R, and P. For the unknown variables, enter 'x' instead of a value.")
 print(" ")
 print(" ")
 i = 0
-while i < 10:
+while i < 100:
     i+=1
     x = "x"
     V = input("Voltage = ")
