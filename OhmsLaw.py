@@ -1,6 +1,9 @@
+#--------------------------------------------------------------------------------------------------------------------------------
+#--Ohm's Law Calculator
+#--By: Jonathan Dobson-lewis
+#--Comments: Currently this works when feeding it a single variable x. I'm currently working to make it accept two x values.
 
-
-
+#--------------------------------------------------------------------------------------------------------------------------------
 print("OHM'S LAW CALCULATOR")
 print(" ")
 print("Enter the known variables V, I, R, and P. For the unknown variables, enter 'x' instead of a value.")
