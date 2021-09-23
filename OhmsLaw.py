@@ -7,7 +7,7 @@
 #--------------------------------------------------------------------------------------------------------------------------------
 
 print("OHM'S LAW CALCULATOR")
-print("By: Jonathan Dobson-lewis")
+print("By: Jonathan Dobson-Lewis")
 print(" ")
 print("Enter the known variables V, I, R, and P. For the unknown variables, enter 'x' instead of a value.")
 print(" ")
